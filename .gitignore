@@ -1,0 +1,5 @@
+target/
+*.config
+test-config.sbt
+test
+base-directory
